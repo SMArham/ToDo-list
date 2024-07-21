@@ -1,7 +1,8 @@
 
-# Real-Time Firebase To-Do List
 
-This project is a real-time to-do list application that utilizes Firebase for data synchronization. It is built with HTML, CSS, and JavaScript. The app allows users to add, view, and manage tasks in real time.
+# To-Do List App
+
+This project is a to-do list application that uses Firebase for real-time data synchronization. Built with HTML, CSS, and JavaScript, the app allows users to manage their tasks efficiently.
 
 ## Table of Contents
 
@@ -12,7 +13,7 @@ This project is a real-time to-do list application that utilizes Firebase for da
 
 ## Visit
 
-You can view the live demo of the real-time to-do list here: [Real-Time Firebase To-Do List](https://to-do-list-seven-chi-47.vercel.app/)
+You can view the live demo of the to-do list app here: [To-Do List App](https://to-do-list-seven-chi-47.vercel.app/)
 
 ## Features
 
@@ -37,9 +38,9 @@ You can view the live demo of the real-time to-do list here: [Real-Time Firebase
 
 3. Open `index.html` in your browser to view the application.
 
-4. Ensure you have a Firebase project set up and replace the Firebase configuration in your JavaScript code with your project's credentials.
+4. Set up a Firebase project and replace the Firebase configuration in your JavaScript code with your project's credentials.
 
 ## Usage
 
-The to-do list application allows users to manage tasks in real time. Customize the Firebase configuration to connect to your own Firebase project. Modify the task management features as needed for your requirements.
+The to-do list application allows users to manage tasks in real time. Customize the Firebase configuration to connect to your own Firebase project. You can modify the task management features and design to fit your specific requirements.
 
